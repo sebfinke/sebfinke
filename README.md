@@ -1,7 +1,7 @@
 ╔══════════════════════════════════════════════════════════════╗
 
-Sebastien Finke
-{ Digital Architect of the Cloud }
+                    Sebastien Finke
+               { Digital Architect of the Cloud }
 
 ╚══════════════════════════════════════════════════════════════╝
 
@@ -9,32 +9,36 @@ Sebastien Finke
                 /  Cloud Whisperer  \
                /  Reality Engineer   \
               / Digital Dreamweaver   \
-               ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+             ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
 | Weaving digital dreams at Microsoft
 | Crafting AI symphonies in the cloud
 | Former guardian of enterprise realms
 
-                ┌─────────────┐
-                │  ARTIFACTS  │
-                └─────────────┘
+                    ┌─────────────┐
+                    │  ARTIFACTS  │
+                    └─────────────┘
 
- ╭───────────────╮      ╭──────────────╮
- │ Cloud Mastery │      │  AI Alchemy  │
- ╰───────────────╯      ╰──────────────╯
- 
- ╭───────────────╮      ╭──────────────╮
- │Copilot Wisdom │      │ Azure Dreams │
- ╰───────────────╯      ╰──────────────╯
+     ╭───────────────╮      ╭──────────────╮
+     │ Cloud Mastery │      │  AI Alchemy  │
+     ╰───────────────╯      ╰──────────────╯
+     
+     ╭───────────────╮      ╭──────────────╮
+     │Copilot Wisdom │      │ Azure Dreams │
+     ╰───────────────╯      ╰──────────────╯
+
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
-                DIGITAL FOOTPRINTS
-       ┌─────────────────────────────┐
-       │ [λ]                     [∞] │
-       │ └> Cloud Developer Advocate │
-       │    └> Microsoft             │
-       └─────────────────────────────┘
+                    DIGITAL FOOTPRINTS
+           ┌─────────────────────────────┐
+           │ [λ]                     [∞] │
+           │ └> Cloud Developer Advocate │
+           │    └> Microsoft            │
+           └─────────────────────────────┘
 
-            "In code we trust,
-     In the cloud we build our dreams"
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+                "In code we trust,
+         In the cloud we build our dreams"```
