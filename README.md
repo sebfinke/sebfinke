@@ -1,5 +1,6 @@
 ╔══════════════════════════════════════════════════════════════╗
-Sebastien Finke { Digital Architect of the Cloud }
+Sebastien Finke
+{ Digital Architect of the Cloud }
 ╚══════════════════════════════════════════════════════════════╝
 
                      ▀▀▀▀▀▀▀▀▀▀▀
